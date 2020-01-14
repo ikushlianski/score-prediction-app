@@ -1,0 +1,13 @@
+{
+  "name": "score-prediction-game",
+  "version": "0.1.0",
+  "author": "Ilya Kushlianski",
+  "license": "MIT",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
+  "devDependencies": {
+    "lerna": "^3.20.2"
+  }
+}
